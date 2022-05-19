@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Blue Chat",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

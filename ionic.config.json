@@ -1,0 +1,12 @@
+{
+  "name": "Blue Chat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "plugins": {
+    "PrivacyScreen": {
+      "enable": true
+    }
+  }
+}
